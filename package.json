@@ -27,7 +27,7 @@
   "devDependencies": {
     "@parcel/watcher": "^2.5.1",
     "@sindresorhus/slugify": "^2.2.1",
-    "@types/node": "^22.13.2",
+    "@types/node": "^24.5.0",
     "bun": "^1.2.20",
     "chokidar": "^4.0.3",
     "concurrently": "^8.2.2",

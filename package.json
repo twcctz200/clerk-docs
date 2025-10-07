@@ -55,7 +55,7 @@
     "vfile-reporter": "^8.0.0",
     "vitest": "^3.0.7",
     "yaml": "^2.7.0",
-    "zod": "^3.24.2",
+    "zod": "^4.1.8",
     "zod-validation-error": "^3.4.0"
   }
 }
